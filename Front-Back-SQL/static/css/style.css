@@ -1,0 +1,22 @@
+.header{
+    float: left;
+    width:100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.form-section{
+    float: left;
+    width:100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.form-section action{
+    float: left;
+    width:100%;
+    text-align: center;
+    margin: 4% 4% 4% 4%;
+}
